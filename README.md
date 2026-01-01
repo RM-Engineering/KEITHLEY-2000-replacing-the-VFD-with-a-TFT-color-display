@@ -5,6 +5,6 @@ The main difference compared to the OLED version is that very little mechanical 
 
 The appearance on the TFT is based on a mixture between the representation of modern KEITHLEY instruments and other DMMs. Many textual optimizations have been made per software.
 
-The expanded display of the device state and the optimized display of the measurement results by grouping numbers in threes significantly improves readability by chunking digits, aligning with how we name numbers (thousands, millions) making large numbers easier to scan. 
+The expanded display of the device state and the optimized display of the measurement results by grouping numbers in threes significantly improves readability by chunking digits, aligning with how we name numbers (milli, mycro, nano ..) making large numbers easier to scan. 
 
 ![image](https://github.com/RM-Engineering/KEITHLEY-2000-replacing-the-VFD-with-a-TFT-color-display/blob/52b00c5cc70f2986c00f71b908cc1ec7d60f4cea/Front%20total%20DCV.jpg)
