@@ -1,7 +1,7 @@
 This is a complete instruction to replace the VFD of a KEITHLEY 2000 with a color TFT display.
 For details see the Conversion Guide.
 
-The main difference compared to the OLED version is that very little mechanical work is required, and the TFT color display with a higher resolution of 320x960 pixels including the LT7680 Graphics Acceleration Control Board is significantly cheaper than the OLED panel.
+The main difference compared to the OLED version is that very little mechanical work is required and the TFT color display with a higher resolution of 320x960 pixels including the LT7680 Graphics Acceleration Control Board is significantly cheaper than the OLED panel.
 
 The appearance on the TFT is based on a mixture between the representation of modern KEITHLEY instruments and other DMMs. Many textual optimizations have been made per software.
 
