@@ -1,10 +1,10 @@
 This is a complete instruction to replace the VFD of a KEITHLEY 2000 with a color TFT display.
-For details see the Conversion Guide.
+For details see the Conversion Guide V1.0.
 
 The main difference compared to the OLED version is that very little mechanical work is required and the TFT color display with a higher resolution of 320x960 pixels including the LT7680 Graphics Acceleration Control Board is significantly cheaper than the OLED panel.
 
 The appearance on the TFT is based on a mixture between the representation of modern KEITHLEY instruments and other DMMs. Many textual optimizations have been made per software. Starting with firmware version 1.4, you can choose between different color schemes for the display.
 
-The expanded display of the device state and the optimized display of the measurement results by grouping numbers in threes significantly improves readability by chunking digits, aligning with how we name numbers (milli, mycro, nano ..) making large numbers easier to scan. 
+With the new Hardware V2.0, it is now possible to choose between two options: either populate only the STM32 section and utilize the EastRising LT7680 Graphics Acceleration Control Board (ER-PCBA5981), or fully populate the board not needing to use the ER-PCBA5981 module any more.
 
 ![image](https://github.com/RM-Engineering/KEITHLEY-2000-replacing-the-VFD-with-a-TFT-color-display/blob/52b00c5cc70f2986c00f71b908cc1ec7d60f4cea/Front%20total%20DCV.jpg)
