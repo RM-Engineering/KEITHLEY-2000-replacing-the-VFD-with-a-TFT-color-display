@@ -3,7 +3,7 @@ For details see the Conversion Guide V1.0.
 
 The main difference compared to the OLED version is that very little mechanical work is required and the TFT color display with a higher resolution of 320x960 pixels including the LT7680 Graphics Acceleration Control Board is significantly cheaper than the OLED panel.
 
-The appearance on the TFT is based on a mixture between the representation of modern KEITHLEY instruments and other DMMs. Many textual optimizations have been made per software. Starting with firmware version 1.4, you can choose between different color schemes for the display.
+The appearance on the TFT is based on a mixture between the representation of modern KEITHLEY instruments and other DMMs. Many textual optimizations have been made per software. The firmware offers a wide range of enhancements, such as the permanent display of the current measurement range, the visual representation of the current measurement range, the grouping of measurement values ​​into sets of three, and so on. Starting with firmware version 1.4, you can choose between different color schemes for the display.
 
 With the new Hardware V2.0, it is now possible to choose between two options: either populate only the STM32 section and utilize the EastRising LT7680 Graphics Acceleration Control Board (ER-PCBA5981), or fully populate the board not needing to use the ER-PCBA5981 module any more.
 
